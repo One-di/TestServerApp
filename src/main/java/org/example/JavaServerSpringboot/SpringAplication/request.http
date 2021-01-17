@@ -1,0 +1,10 @@
+POST https://2ad6daa1b9f6.ngrok.io/save
+Content-Type: application/json
+
+{
+  "id": null,
+  "fio": "хуй",
+  "tel": "313424"
+}
+
+###
